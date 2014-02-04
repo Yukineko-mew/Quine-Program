@@ -1,5 +1,5 @@
 package b1012213;
-//@author b1012213 Yuki Ogasawara
+//@author Yukineko
 
 public class b1012213 {
     public static void main(String [] args) {
@@ -22,7 +22,7 @@ public class b1012213 {
     }
     static String src [] = {
         "package b1012213;",
-        "//@author b1012213 Yuki Ogasawara",
+        "//@author Yukineko",
         "",
         "public class b1012213 {",
         "    public static void main(String [] args) {",
