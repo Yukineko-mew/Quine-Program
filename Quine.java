@@ -1,6 +1,7 @@
+package b1012213;
 //@author Yukineko
 
-public class Quine {
+public class b1012213 {
     public static void main(String [] args) {
         char space = 32;
         char wQuote = 34;
@@ -19,10 +20,11 @@ public class Quine {
         System.out.println(semiColon);
         System.out.println(brace);
     }
-    static String src [] = {,
+    static String src [] = {
+        "package b1012213;",
         "//@author Yukineko",
         "",
-        "public class Quine {",
+        "public class b1012213 {",
         "    public static void main(String [] args) {",
         "        char space = 32;",
         "        char wQuote = 34;",
